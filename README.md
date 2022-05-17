@@ -11,3 +11,6 @@ New_Y4000 : dataset after preprosessing for initial mlp attempt
 Code:
 RH:MLP+PCA : contains codes for initial mlp attempt and pca
 RH:CNN : contains codes for cnn
+
+
+Thank you for reading!
